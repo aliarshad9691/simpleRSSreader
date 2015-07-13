@@ -1,0 +1,15 @@
+{
+    "name": "ali/rss_reader",
+    "description": "A simple RSS reader",
+    "require": {
+        "components/angular.js": "^1.3",
+        "twitter/bootstrap": "^3.3",
+        "components/jquery": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Ali Arshad",
+            "email": "email@aliarshad.info"
+        }
+    ]
+}
